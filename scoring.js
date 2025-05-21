@@ -58,7 +58,7 @@ function getTimePoints(time) {
     }
 }
 let list = {
-    "retailer": "M&M Corner Market",
+    "retailer": "JJ Corner Market",
     "purchaseDate": "2022-03-20",
     "purchaseTime": "14:33",
     "items": [
