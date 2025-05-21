@@ -1,7 +1,0 @@
-find dev user for gitlab?
-see if nvidia broadcast can be run as a service from a batch file on startup
-add scripts to task scheduler: reupload after hours, folder watcher on user login
-put batch files in main directory of project rather than in tools folder
-
-suggestions for face filter:
-make lists of filters based on position. randomly choose one from each of the lists (top of head, on face, on shoulder, on chest)
